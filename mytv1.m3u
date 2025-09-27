@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+﻿#EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml"
 #------------------------VTV------------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8.5Mbps)
 http://ImmortalWrt:8989/rtp/232.84.1.117:10254
@@ -728,3 +728,4 @@ http://ImmortalWrt:8989/rtp/232.84.2.180:10338
 http://ImmortalWrt:8989/rtp/232.84.3.210:11182
 #EXTINF:0 tvg-id="" group-title="" tvg-logo="",(Testcard)
 http://ImmortalWrt:8989/rtp/232.84.3.209:11176
+
